@@ -648,7 +648,7 @@ INPUT[type = "text"]{
         display:block;
         top: 25px;
         left: 100px;
-        z-index: 2;
+        z-index: 5;
         position: relative;
         width: 30px;
         height: 50px;
@@ -670,7 +670,7 @@ INPUT[type = "text"]{
         transition: all 0.5s ease 0s;
         top: -130%;
         background-color: rgba(0,0,0,0.8);
-	z-index: 3;
+	z-index: 4;
     }
     .menu_col1, .menu_col2 {
       position: inherit;
@@ -689,7 +689,6 @@ INPUT[type = "text"]{
         margin-left: 30px;
         right: 30px;
         left: auto;
-        z-index: 2;
         display:block;
         position: relative;
         width: 30px;
