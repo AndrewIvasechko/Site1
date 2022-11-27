@@ -670,6 +670,7 @@ INPUT[type = "text"]{
         transition: all 0.5s ease 0s;
         top: -130%;
         background-color: rgba(0,0,0,0.8);
+	z-index: 3;
     }
     .menu_col1, .menu_col2 {
       position: inherit;
